@@ -35,3 +35,6 @@ htmlcov/
 *.pdf
 *.docx
 
+# Documentation
+school.md
+
