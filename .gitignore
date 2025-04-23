@@ -38,3 +38,8 @@ htmlcov/
 # Documentation
 school.md
 
+# Milvus
+*milvus_demo.db
+.milvus_demo.db.lock
+
+
